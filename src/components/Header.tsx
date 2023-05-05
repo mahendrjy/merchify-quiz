@@ -1,5 +1,3 @@
-import { Children, ReactNode } from 'react'
-
 type NavLinkProps = {
   className?: string
 }
